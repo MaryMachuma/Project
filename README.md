@@ -1,7 +1,7 @@
 # My Portfolio Website
 This portfolio is a reflection of my journey as a Software Engineering Student and a collection of my projects,skills and passion for technology.
 ## Table of contents
-- [Feautres](#feauters)
+- [Feautres](#features)
 - [Installation](#installation)
 - [Contributing](#contributing)
 
@@ -30,16 +30,16 @@ Contributions are welcome! Please follow these steps;
 2. Create a new branch
 
 ```bash
-git checkout -b feautres/yourfeautre
+git checkout -b feauture/yourfeature
 '''
 3. Commit your changes
 
 ```bash
-git commmit-m "Add a new feautre"
-
+git commmit -m "Add a new feature"
+```
 4. Push to the branch
 ```bash
-git push origin feauture/Your feautre
+git push origin feauture/Your feature
 ```
 
 5. Open a pull request
